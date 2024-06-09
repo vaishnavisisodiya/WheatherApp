@@ -1,0 +1,15 @@
+{
+  "name": "wheatherappnodejs",
+  "version": "1.0.0",
+  "description": "creating a weather nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaishnavi Sisodiya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.3",
+    "requests": "^0.3.0"
+  }
+}
